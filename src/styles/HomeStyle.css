@@ -1,0 +1,15 @@
+.home-container{
+    height: 60vh;
+padding: 5%;
+
+
+}
+.home-content{
+    font-weight: 900;
+    color:black
+}
+ .paragraph{
+margin-top: 20px;
+color: #dadada;
+width: 50%;
+    }
